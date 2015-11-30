@@ -38,3 +38,9 @@
 
 
 I am ** Strong ** .
+
+
+```java
+static void main(String args){
+}
+```
